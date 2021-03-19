@@ -1,5 +1,5 @@
-1 git_1 modif
-2 got_1 modif too
+1 git_1 modif line modified
+2 got_1 modif too line modified too
 3
 4
 5
